@@ -1,8 +1,8 @@
-- ✨ Hi, I’m @prjrg
-- ✨✨ I’m interested in Mathematics, Deep Learning and Deep Reinforcement Learning
-- ✨✨✨ I’m currently learning Computer Vision and DRL (Reinforcing my knowledge and skills)
-- ✨✨✨✨ I’m looking to collaborate on any open-source project related to computer science and mathematics
-- ✨✨✨✨✨ How to reach me: send an email to pmrjge@gmail.com
+- ✨ Hi, I’m Pedro Jorge or @prjrg on Github
+- ✨✨ I’m interested in Mathematics, Data Science, Machine Learning, Deep Learning and Deep Reinforcement Learning
+- ✨✨✨ Currently, studying Data Science is one of my top priorities, having enrolled recently in a Data Science Masters
+- ✨✨✨✨ Stil, I am looking to collaborate on any open-source project related to Data Science, Machine Learning, Reinforcement Learning, Computer Science or even so Mathematics
+- ✨✨✨✨✨ You may reach me through the email prjrg@outlook.com
 
 <!---
 prjrg/prjrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
